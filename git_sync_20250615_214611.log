@@ -2,3 +2,7 @@
   [0;34mFetching from remote...[0m
   Status: Uncommitted=false, Untracked=true, Ahead=false, Behind=false
   [0;33mFound local changes. Creating commit...[0m
+  [0;32mLocal changes committed[0m
+  [0;32mPushing changes to remote...[0m
+  [0;32mSuccessfully pushed to remote[0m
+  [0;32mRepository sync completed[0m
